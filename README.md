@@ -38,5 +38,3 @@
 ### Untuk perintah perintah lain bisa cek menggunakan perintah
 `git --help`
 
-### Reference
-- https://www.linuxsec.org/2017/05/perintah-dasar-git.html
